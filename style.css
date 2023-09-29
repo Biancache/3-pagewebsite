@@ -1,0 +1,23 @@
+body{
+	background-color: #D0F6F9;
+}
+
+h1{border-color: D0F6F9;}
+
+	.img h4 {position: absolute; right:10%; bottom:10%; width:20px; color:#FFCCCC
+}
+}
+    .img a {text-decoration:none}
+    .head2 { line-height:40px; position:absolute; }
+    .img { position:relative; width:400px; margin:0.5cm auto;}
+	.clear {clear:both}
+	.content{ background:rgba(255,255,255,0.8); padding:30px}
+	.banner{ position:relative}
+	.end{ color:#fff; padding:30px 0;background: #735237; text-align:center; color:#000000}
+	.bar{ border-bottom:#735237 solid 1px; padding:5px; margin-bottom:20px}
+	.imglist{ width:100%; margin:0 auto}
+    .imglist li{ float:left; width:48%; margin:1% ; list-style:none; padding:0; text-align:center}
+
+
+
+
